@@ -21,3 +21,4 @@
 - Cambia el botón de contacto por el enlace de inscripción cuando esté disponible.
 - Actualiza fechas y horario en la tarjeta de información general.
 Actualización
+Actualización 2
