@@ -20,3 +20,4 @@
 - Cuando tengas las fotografías institucionales, puedes agregarlas en la sección hero o en una nueva franja visual.
 - Cambia el botón de contacto por el enlace de inscripción cuando esté disponible.
 - Actualiza fechas y horario en la tarjeta de información general.
+Actualización
